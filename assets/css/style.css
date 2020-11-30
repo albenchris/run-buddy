@@ -181,6 +181,8 @@ section {
     font-size: 38px;
 }
 
+/* TRAINERS STYLE START */
+
 .trainers {
     text-align: center;
 }
@@ -220,6 +222,8 @@ section {
     line-height: 1.3;
 }
 
+/* TRAINERS STYLE END */
+
 .text-left {
     text-align: left;
 }
@@ -254,6 +258,18 @@ section {
 
 .contact-info h3{
     font-size: 32px;
-    margin-bottom: 8px;
     color: #fce138;
 }
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* REACH OUT STYLES END */
